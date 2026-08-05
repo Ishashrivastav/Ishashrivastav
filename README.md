@@ -1,5 +1,22 @@
-#  About Me:
-##  About Me:<br><br> I’m currently working on  <br>AI & Machine Learning projects, Full-Stack Web Development, and Data Structures & Algorithms.<br><br> I’m looking to collaborate on  <br>Open Source, AI/ML, Computer Vision, Web Development, and innovative student projects.<br><br> I’m looking for help with  <br>Deep Learning, System Design, Cloud Computing, and MLOps.<br><br> I’m currently learning  <br><br>• Data Structures & Algorithms (C++)<br><br>• Machine Learning & Deep Learning<br><br>• Big Data Technologies (Hadoop & Spark)<br><br>• MERN Stack and Cloud Computing<br><br>💬 Ask me about  <br>Python, C++, Java, HTML, CSS, JavaScript, SQL, Git/GitHub, DSA, and beginner AI/ML.<br><br> Fun fact  <br>I love transforming real-world problems into AI-powered solutions and enjoy learning new technologies through hands-on projects. 
+## 🪄 About Me:
+
+🔭 **I’m currently working on**  
+AI & Machine Learning projects, Full-Stack Web Development, and Data Structures & Algorithms.
+
+👯 **I’m looking to collaborate on**  
+Open Source, AI/ML, Computer Vision, Web Development, and innovative student projects.
+
+🤝 **I’m looking for help with**  
+Deep Learning, System Design, Cloud Computing, and MLOps.
+
+🌱 **I’m currently learning**  
+Data Structures & Algorithms (C++), Machine Learning & Deep Learning, Big Data Technologies (Hadoop & Spark), MERN Stack, and Cloud Computing.
+
+💬 **Ask me about**  
+Python, C++, Java, HTML, CSS, JavaScript, SQL, Git/GitHub, DSA, and beginner AI/ML.
+
+⚡ **Fun fact**  
+I love transforming real-world problems into AI-powered solutions and enjoy learning new technologies through hands-on projects. 
 
 <div align="center">
     <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
